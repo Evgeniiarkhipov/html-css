@@ -1,0 +1,23 @@
+table {
+    text-align: center;
+    background-color: antiquewhite;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid blue;
+    padding: 10px;
+}
+th {
+    border: none;
+    padding: 10px;
+    background-color: aliceblue;
+    color: blue;
+}
+caption {
+    caption-side: bottom;
+    text-align: right;
+    padding: 10px 0;
+}
+.month {
+    rotate: 270deg;
+}
