@@ -1,0 +1,94 @@
+.div1 {
+    background-color: #4F89BF;
+    width: 1919px;
+    height: 1400px;
+}
+
+p {
+    color: white;
+    width: 345px;
+    height: 80px;
+    margin: 0;
+    margin-left: 189px;
+    font-family: Montserrat;
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 78px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.Rectangle7 {
+    width: 722px;
+    height: 8px;
+    background: linear-gradient(180deg, rgba(112, 112, 112, 0.2) 0%, rgba(112, 112, 112, 0.2) 100%);
+    color: #00618ACC;
+    line-height: 56px;
+    text-indent: 20px;
+}
+.Rectangle5 {
+    width: 533px;
+    height: 56px;
+    margin-left: 110px;
+    border-radius: 5px;
+    background: #FFFFFFCC;
+    color: #00618ACC;
+    line-height: 56px;
+    text-indent: 20px;
+    border: none;
+}
+.Rectangle6 {
+    width: 533px;
+    height: 56px;
+    margin-top: 20px;
+    margin-left: 110px;
+    border-radius: 5px;
+    background: #FFFFFFCC;
+    color: #00618ACC;
+    line-height: 56px;
+    text-indent: 20px;
+    border: none;
+}
+.Rectangle4 {
+    width: 533px;
+    height: 56px;
+    margin-top: 20px;
+    margin-left: 110px;
+    border-radius: 5px;
+    background: #FFFFFFCC;
+    color: #00618ACC;
+    line-height: 56px;
+    text-indent: 20px;
+    border: none; 
+}
+.Rectangle3 {
+    width: 536px;
+    height: 56px;
+    margin-top: 20px;
+    margin-left: 110px;
+    border-radius: 5px;
+    background: #FFFFFFCC;
+    color: #00618ACC;
+    line-height: 56px;
+    text-indent: 20px;
+    border: none;
+}
+.Rectangle2 {
+    color: white;
+    width: 412px;
+    height: 66px;
+    margin-top: 20px;
+    margin-left: 169px;
+    opacity: 0.8px;
+    background: #00618A;
+    font-family: Roboto;
+    font-size: 48px;
+    font-weight: 400;
+    line-height: 56px;
+    letter-spacing: 0em;
+    text-align: center;
+    border-radius: 7px;
+    line-height: 66px;
+}
+input::placeholder {
+    color: #00618ACC;
+  }
